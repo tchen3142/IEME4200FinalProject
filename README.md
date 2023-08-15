@@ -1,5 +1,5 @@
-# CAPP 30239 Data Visualization for Policy Analysis (Autumn 2022)
-Welcome to my Github repo for CAPP 30239! The goal of this course is to provide an introduction to data visualization design, theory, and practices, as well as hands-on experience with data visualization tools (primarily D3.js). Each week's class will include a theory/design segment (Tuesday) and a <a href="https://github.com/tiffanyfrance/CAPP30239_FA22">code lecture (Thursday</a>) employing commonly practiced industry skills and thinking.
+# IEME4200 Human-Centered Design and Innovation (Fall 2022)
+Welcome to my Github repo for IEME 4200! The goal of this course is to provide an introduction to human-centered design, theory, and practices, as well as hands-on experience creating a product. Each week's class will include a lecture/theory segment (Tuesday) and a lab on Thursday where we work on exercises to apply theory to practice.
 
 ## Content
 * <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/final_project">Final Project</a> The Tate Collection through the Years
