@@ -1,21 +1,29 @@
 # Human-Centered Design Projects
 
-Selected collaborative design projects from 2022, organized to document the design problem, user research, concept development, and proposed solutions.
-
-> **Work in progress:** This is a replacement draft. The original borrowed files are still present in this branch until the new project assets are curated and verified. The live `main` branch has not been changed.
+**Two collaborative human-centered design projects (2022)**: maternal-health communication and accessible digital payments. Each case study documents the design challenge, research, proposed experience, and limitations.
 
 ## Projects
 
 ### [Lumo — Communication Access in Maternal Healthcare](projects/lumo/README.md)
-A human-centered design concept for supporting non-English-speaking mothers during prenatal and postpartum care. The team explored translation barriers through interviews, alternative concepts, prototype feedback, and a proposed tablet experience with live translation and saved highlights.
+Explored how language barriers affect non-English-speaking mothers during prenatal and postpartum care. Proposed a tablet-supported translation and conversation-review experience, informed by interviews, stakeholder analysis, concept exploration, and storyboarding.
 
 ### [Payment App Redesign — Accessible Digital Payments](projects/payment-redesign/README.md)
-A user-centered payment-flow redesign based on usability research into Venmo, Zelle, and Cash App. The proposed experience focuses on clarity, trust, confirmation, and reducing friction for less experienced users.
+Studied usability challenges with Venmo, Zelle, and Cash App. Proposed a simplified payment experience emphasizing clear actions, recipient review, transaction confirmation, and accessibility for less experienced users.
 
-## Attribution
-Both projects were team efforts. Team members are credited in each case study. Individual contributions should be documented accurately before using these case studies in admissions applications.
+## Project status and authorship
 
-## Preservation
-The original repository remains accessible in the [backup-before-project-replacement-2026-11-22 branch](https://github.com/tchen3142/IEME4200FinalProject/tree/backup-before-project-replacement-2026-11-22).
+Both projects were completed collaboratively. Team members are named within each case study. These are **design concepts**, not shipped applications or clinically validated products.
 
-The project files will be uploaded and the inherited material removed in a subsequent reviewed change, before the draft is merged into `main`.
+This clean branch replaces the inherited Tate Collection and weekly coursework with these two original case studies. **The original presentation, video, and research assets are not yet uploaded**; they are being reviewed for privacy and attribution before publication.
+
+## Original repository backup
+
+The prior repository is preserved on the [backup-before-project-replacement-2026-11-22 branch](https://github.com/tchen3142/IEME4200FinalProject/tree/backup-before-project-replacement-2026-11-22).
+
+## Next steps
+
+1. Review materials for identifiable interview participants and third-party content.
+2. Add approved Lumo process documentation, storyboard images, and final presentation/video link.
+3. Add approved payment redesign presentation and selected research findings.
+4. Add thumbnails and a clearer account of Tiffany's individual contributions.
+5. Review final links and merge the clean branch into `main`.
