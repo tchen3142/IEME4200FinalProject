@@ -1,26 +1,54 @@
-# Payment App Redesign — Accessible Digital Payments
+# Payment App Redesign — Making Digital Payments More Accessible
 
-**Project type:** Collaborative user-centered design project (2022)  
-**Team:** Alexandrea Jee, Cindy Espinosa, Lord Crawford, Naina Durga, Tiffany Chen  
-**Status:** Class design concept, not a live financial product
+**User-centered design concept · 2022 · Team project**
 
-## Design challenge
-How might contactless payments become easier to understand and safer to use, especially for older adults and users less familiar with payment applications?
+**Team:** Alexandrea Jee, Cindy Espinosa, Lord Crawford, Naina Durga, Tiffany Chen
 
-## Discovery
-The team studied Venmo, Zelle, and Cash App through interviews and usability observations. Common reported concerns included difficulty locating payment actions, unclear payment sources, accidental transfers, distracting social features, sign-up friction, small controls, and insufficient confirmation feedback.
+## The challenge
 
-## Design process
-The team outlined usability tests, synthesized research findings, mapped payment flows, explored revised screens, and drafted scenarios for follow-up prototype testing.
+How might we reduce confusion, error anxiety, and navigation friction for older adults and people less familiar with contactless payment applications?
 
-## Proposed redesign
-The proposal emphasizes clearer identification of recipients, payment entry and review, explicit confirmations, and completed-transaction feedback.
+The project investigated existing experiences in **Venmo, Zelle, and Cash App** before proposing a simpler payment flow.
 
-## Original materials to organize
-- Final Redesign Presentation.pptx
-- Interview Questions and Results (4-4-2022).docx
-- Redesign - Work in Progress (4-4-2022).docx
-- Usability Test Plan (3-21-2022).docx
-- Gantt Chart.xlsx
+## Research and findings
 
-Original materials have not yet been added to this draft branch. Research notes should be screened for participant information before publishing.
+The team documented interview feedback and usability observations. Concerns appearing across the research included:
+- Difficulty finding the pay action
+- Uncertainty about the funding source
+- Risk of paying the wrong person or sending the wrong amount
+- Distracting social content and unnecessary controls
+- Friction in sign-up and bank verification, especially for users outside the US
+- Insufficient transaction confirmation
+
+The research also recognized benefits in existing services, such as Zelle's bank integration and Venmo's payee verification.
+
+## Proposed experience
+
+The team mapped an existing payment flow and explored a redesigned one with:
+1. **Home screen:** Search people, scan a QR code, see recent payments
+2. **Recipient details:** Review identifying information and transaction history
+3. **Payment screen:** Enter an amount with clearer controls
+4. **Confirmation:** Check recipient and amount before sending
+5. **Success screen:** View completed payment feedback and return home
+
+The direction was intended to simplify the flow while adding visibility and safeguards.
+
+## Design methods
+
+- Competitor comparison and interview synthesis
+- Usability observations and task-flow analysis
+- Brainstorming and low-fidelity screen sketches
+- Discussion of user-centered design and ISO considerations
+- Planned prototype walkthroughs with think-aloud testing
+
+## Evaluation status
+
+The final presentation describes a plan for testing a high-fidelity prototype and future iterative design. **It does not establish that this later validation was completed.** No improvement percentages or measured success rates are claimed here.
+
+## Source material
+
+The private source bundle contains `Final Redesign Presentation.pptx`, an interview notes document, a usability test plan, a work-in-progress design document, and a Gantt chart. Raw interview notes should not be made public without review and appropriate redaction.
+
+## Credit
+
+This was a five-person collaborative project. Add a verified description of your particular role and work before using it as an individual case study.
