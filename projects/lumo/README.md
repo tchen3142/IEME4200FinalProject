@@ -57,9 +57,23 @@ User research, stakeholder consideration, alternate concept generation, prototyp
 
 **This was a proposed course prototype, not a medical product.** Further work would require study of translation accuracy, clinical safeguards, interpreter access, privacy, recording consent, and deployment conditions. Interviews and concept feedback should not be confused with a real-world clinical effectiveness study.
 
+## Presentation archive
+
+The following seven class presentations have now been uploaded and organized under [presentations/](presentations/). They document early problem framing, idea exploration, evaluation, and prototyping:
+
+- [Territory and Problem Presentation](presentations/S2T4%20Territory%20and%20Problem%20Presentation.pptx)
+- [Ideas & Competition](presentations/S2T4%20Ideas%20%26%20Competition.pptx)
+- [Copy of Ideas & Competition](presentations/Copy%20of%20S2T4%20Ideas%20%26%20Competition.pptx)
+- [Evaluation & Choice](presentations/S2T4_%20Evaluation%20%26%20Choice_.pptx)
+- [Evaluation and Choice — Iteration 2](presentations/Evaluation%20and%20Choice%20Iteration%202_.pptx)
+- [Three Prototypes](presentations/Three%20Prototypes.pptx)
+- [Prototype Story](presentations/Prototype%20Story.pptx)
+
+The final video is not yet present on this branch. The earlier process documentation and storyboard deliverables are also not yet uploaded.
+
 ## Source material
 
-The original archive includes `Process Documentation.pptx`, `Storyboard!!!.pptx`, storyboard notes, a stakeholder assessment spreadsheet, and a final video. These assets are being reviewed before public upload. The separate class-wide question document includes other teams' content and should not be posted as Lumo-only research.
+The original archive includes `Process Documentation.pptx`, `Storyboard!!!.pptx`, storyboard notes, a stakeholder assessment spreadsheet, and a final video. Some earlier presentations are now available in the presentation archive above. Other original assets are still pending review and upload. The separate class-wide question document includes other teams' content and should not be posted as Lumo-only research.
 
 ## Credit
 
