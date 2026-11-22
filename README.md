@@ -1,14 +1,21 @@
-# IEME4200 Human-Centered Design and Innovation (Fall 2022)
-Welcome to my Github repo for IEME 4200! The goal of this course is to provide an introduction to human-centered design, theory, and practices, as well as hands-on experience creating a product. Each week's class will include a lecture/theory segment (Tuesday) and a lab on Thursday where we work on exercises to apply theory to practice.
+# Human-Centered Design Projects
 
-## Content
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/final_project">Final Project</a> The Tate Collection through the Years
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/week_01">Week 1 (Sept 27 - Oct 2):</a> Data selfie and self introduction
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/week_02">Week 2 (Oct 3 - 9):</a> Data Humanism, Dear Data project, and intro to javascript
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/week_03">Week 3 (Oct 10 - 16):</a> Vertical bar charts in D3.js and final project data
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/week_04">Week 4 (Oct 17 - 23):</a> Horizontal bar charts & different kinds of line charts in D3.js, project 2
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/week_05">Week 5 (Oct 24 - 30):</a> How Charts Lie (ch 1), scatterplots, and histograms
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/week_06">Week 6 (Oct 31 - Nov 6):</a> Parts of a whole. Create 3 charts (homework)
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/week_07">Week 7 (Nov 7 - 13):</a> Maps
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/week_08">Week 8 (Nov 14 - 20):</a> Flow/Relationships
-* <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/week_09">Week 9 (Nov 28 - Dec 4):</a> Hierarchy
+Selected collaborative design projects from 2022, organized to document the design problem, user research, concept development, and proposed solutions.
+
+> **Work in progress:** This is a replacement draft. The original borrowed files are still present in this branch until the new project assets are curated and verified. The live `main` branch has not been changed.
+
+## Projects
+
+### [Lumo — Communication Access in Maternal Healthcare](projects/lumo/README.md)
+A human-centered design concept for supporting non-English-speaking mothers during prenatal and postpartum care. The team explored translation barriers through interviews, alternative concepts, prototype feedback, and a proposed tablet experience with live translation and saved highlights.
+
+### [Payment App Redesign — Accessible Digital Payments](projects/payment-redesign/README.md)
+A user-centered payment-flow redesign based on usability research into Venmo, Zelle, and Cash App. The proposed experience focuses on clarity, trust, confirmation, and reducing friction for less experienced users.
+
+## Attribution
+Both projects were team efforts. Team members are credited in each case study. Individual contributions should be documented accurately before using these case studies in admissions applications.
+
+## Preservation
+The original repository remains accessible in the [backup-before-project-replacement-2026-11-22 branch](https://github.com/tchen3142/IEME4200FinalProject/tree/backup-before-project-replacement-2026-11-22).
+
+The project files will be uploaded and the inherited material removed in a subsequent reviewed change, before the draft is merged into `main`.
