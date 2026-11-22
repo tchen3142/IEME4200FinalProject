@@ -41,6 +41,10 @@ Lumo proposes a tablet interface used alongside earbuds for medical conversation
 
 **Key design decision:** Move beyond generic live translation to help patients revisit important information afterward.
 
+
+
+[**Read the curated design-process summary →**](design-process.md)
+
 ## Evaluation and iteration
 
 The team showed early concepts to mothers and incorporated feedback into the final concept. Class questions also raised concerns about differences from Google Translate, possible loss of in-person empathy, and consent to retain recordings. These informed the presentation's discussion of bookmarking, autonomy, and privacy.
