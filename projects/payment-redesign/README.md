@@ -41,6 +41,10 @@ The direction was intended to simplify the flow while adding visibility and safe
 - Discussion of user-centered design and ISO considerations
 - Planned prototype walkthroughs with think-aloud testing
 
+
+
+[**Read the curated design-process summary →**](design-process.md)
+
 ## Evaluation status
 
 The final presentation describes a plan for testing a high-fidelity prototype and future iterative design. **It does not establish that this later validation was completed.** No improvement percentages or measured success rates are claimed here.
