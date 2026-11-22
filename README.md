@@ -16,7 +16,7 @@ Studied usability challenges with Venmo, Zelle, and Cash App. Proposed a simplif
 
 Both projects were completed collaboratively. Team members are named within each case study. These are **design concepts**, not shipped applications or clinically validated products.
 
-This clean branch replaces the inherited Tate Collection and weekly coursework with these two original case studies. **Curated text-based design process summaries are now included. The original presentation, video, and research binaries are not yet uploaded**; they are being reviewed for privacy and attribution before publication.
+This clean branch replaces the inherited Tate Collection and weekly coursework with these two original case studies. **Curated design-process summaries and seven Lumo presentation files are now included. The final video and remaining research and presentation files are not yet present**; they are being reviewed for privacy and attribution before publication.
 
 ## Original repository backup
 
@@ -25,7 +25,7 @@ The prior repository is preserved on the [backup-before-project-replacement-2026
 ## Next steps
 
 1. Review original files for identifiable interview participants and third-party content before any public upload.
-2. Add approved Lumo process documentation, storyboard images, and final presentation/video link.
+2. Review the uploaded Lumo presentations, add approved storyboard images, and provide a final video link.
 3. Add approved payment redesign presentation and selected research findings.
 4. Add thumbnails and a clearer account of Tiffany's individual contributions.
 5. Review final links and merge the clean branch into `main`.
