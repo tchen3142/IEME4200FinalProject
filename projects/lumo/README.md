@@ -6,6 +6,8 @@
 
 [**Explore the original interactive Figma prototype**](https://www.figma.com/proto/u36ZD4vPvIeuyycDGgbgHn/Prototype?node-id=103%3A41&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A41&show-proto-sidebar=1)
 
+**[Watch the final Lumo project video](https://youtu.be/TUtkYGcVBCk)**
+
 ## The challenge
 
 How might we reduce communication barriers for non-English-speaking mothers receiving prenatal and postpartum care in US hospitals, while supporting autonomy and preserving a personal relationship with clinicians?
@@ -69,11 +71,11 @@ The following seven class presentations have now been uploaded and organized und
 - [Three Prototypes](presentations/Three%20Prototypes.pptx)
 - [Prototype Story](presentations/Prototype%20Story.pptx)
 
-The final video is not yet present on this branch. The earlier process documentation and storyboard deliverables are also not yet uploaded.
+The [final project video is available on YouTube](https://youtu.be/TUtkYGcVBCk). Earlier process documentation and storyboard deliverables have not been uploaded to this repository.
 
 ## Source material
 
-The original archive includes `Process Documentation.pptx`, `Storyboard!!!.pptx`, storyboard notes, a stakeholder assessment spreadsheet, and a final video. Some earlier presentations are now available in the presentation archive above. Other original assets are still pending review and upload. The separate class-wide question document includes other teams' content and should not be posted as Lumo-only research.
+The original archive includes `Process Documentation.pptx`, `Storyboard!!!.pptx`, storyboard notes, a stakeholder assessment spreadsheet, and a final video (linked above). Some earlier presentations are now available in the presentation archive above. Other original assets are still pending review and upload. The separate class-wide question document includes other teams' content and should not be posted as Lumo-only research.
 
 ## Credit
 
