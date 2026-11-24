@@ -49,9 +49,13 @@ The direction was intended to simplify the flow while adding visibility and safe
 
 The final presentation describes a plan for testing a high-fidelity prototype and future iterative design. **It does not establish that this later validation was completed.** No improvement percentages or measured success rates are claimed here.
 
+## Presentation
+
+[**View the final Payment App Redesign presentation**](Final%20Redesign%20Presentation.pptx)
+
 ## Source material
 
-The private source bundle contains `Final Redesign Presentation.pptx`, an interview notes document, a usability test plan, a work-in-progress design document, and a Gantt chart. Raw interview notes should not be made public without review and appropriate redaction.
+The [final presentation](Final%20Redesign%20Presentation.pptx) is now available in this folder. Additional source material includes interview notes, a usability test plan, a work-in-progress design document, and a Gantt chart. Raw interview notes should not be made public without review and appropriate redaction.
 
 ## Credit
 
